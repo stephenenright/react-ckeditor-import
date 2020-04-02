@@ -1,6 +1,6 @@
 {
   "name": "react-ckeditor-import",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Integrates CkEditor into a react project",
   "main": "./src/index.js",
   "scripts": {
