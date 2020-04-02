@@ -1,8 +1,8 @@
 {
   "name": "react-ckeditor-import",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Integrates CkEditor into a react project",
-  "main": "./src/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
